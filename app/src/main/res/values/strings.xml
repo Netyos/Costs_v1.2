@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Costs_v1.2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_monthly_costs">MonthlyCosts</string>
+    <string name="btnCategories">Расходы за день</string>
+    <string name="btnMonthlyCosts">Расходы за месяц</string>
+    <string name="tvMonthTitle">Расходы за </string>
+    <string name="product">Продукты</string>
+    <string name="zero">0</string>
+    <string name="transit">Проезд</string>
+    <string name="entertainment">Развлечения</string>
+    <string name="komm">Коммуналка</string>
+    <string name="other">Другое</string>
+    <string name="common">Общее</string>
+    <string name="titleCat">Расходы на </string>
+    <string name="buttonSum">Сохранить</string>
+
+</resources>
